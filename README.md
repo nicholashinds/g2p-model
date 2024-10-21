@@ -1,6 +1,6 @@
 # Grapheme-to-Phoneme (G2P) Model Documentation
 
-This document serves as both the installation guide for using the Grapheme-to-Phoneme (G2P) model and a full walkthrough of its code and development process.
+This document serves as both the installation guide for using the Grapheme-to-Phoneme (G2P) model and a full walkthrough of its code and development process. This model was made for [Gibberle](https://github.com/Pv3-Labs/gibberle), a gibberish generation game.
 
 ## Table of Contents
 
